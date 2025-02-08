@@ -39,3 +39,6 @@ while( numeroUsuario != numeroSecreto){
  alert('fin del juego');
 console.log('fin del juego');
 // nada mas para probar la rama de git
+// ya vi que si se puede hacer un cambio en la rama de git
+// y no afecta a la rama principal
+// ahora si se puede hacer el merge de la rama de git
