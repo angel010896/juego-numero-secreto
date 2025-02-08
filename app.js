@@ -26,11 +26,7 @@ console.log(typeof(numeroUsuario));//typeof nos dice el tipo de dato
    }
    // alert(' no era ese numero lo siento');
  };
- /*let edad = 18;
- let edadUsuario = prompt('cual es tu edad');
- if(edadUsuario == edad || edadUsuario > edad ){
-     alert(`eres mayor de edad, tu edad es ${edadUsuario}`);
- }
+ 
  else{
      alert(`eres menor de edad`);
  }*/
