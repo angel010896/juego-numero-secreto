@@ -9,7 +9,7 @@ while( numeroUsuario != numeroSecreto){
     numeroUsuario = parseInt(prompt(` Me indicas un numero entre 1 y ${numeroAleatorio}:`));
     //pide un numero al usuario y lo guarda en la variable numeroUsuario, parseInt convierte el string (tipo de dato) en numero
 
-console.log(typeof(numeroUsuario));//typeof nos dice el tipo de dato
+ console.log(typeof(numeroUsuario));//typeof nos dice el tipo de dato
  console.log(numeroUsuario);//muestra en consola el numero
 
  if (numeroUsuario == numeroSecreto) {
@@ -27,9 +27,6 @@ console.log(typeof(numeroUsuario));//typeof nos dice el tipo de dato
    // alert(' no era ese numero lo siento');
  };
  
- else{
-     alert(`eres menor de edad`);
- }*/
    // intentos = intentos + 1;
    intentos++;
     palabraVeces = 'veces';
