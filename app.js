@@ -36,3 +36,4 @@ while( numeroUsuario != numeroSecreto){
         break;    
     }
 }
+ alert('fin del juego');
