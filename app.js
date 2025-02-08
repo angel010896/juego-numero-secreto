@@ -38,3 +38,4 @@ while( numeroUsuario != numeroSecreto){
 }
  alert('fin del juego');
 console.log('fin del juego');
+// nada mas para probar la rama de git
