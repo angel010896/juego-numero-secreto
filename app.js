@@ -37,3 +37,4 @@ while( numeroUsuario != numeroSecreto){
     }
 }
  alert('fin del juego');
+console.log('fin del juego');
