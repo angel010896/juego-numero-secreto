@@ -27,9 +27,6 @@ console.log(typeof(numeroUsuario));//typeof nos dice el tipo de dato
    // alert(' no era ese numero lo siento');
  };
  
- else{
-     alert(`eres menor de edad`);
- }*/
    // intentos = intentos + 1;
    intentos++;
     palabraVeces = 'veces';
