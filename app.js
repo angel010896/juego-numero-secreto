@@ -19,10 +19,10 @@ while( numeroUsuario != numeroSecreto){
  }
    else {
      if(numeroUsuario > numeroSecreto){
-         alert(`El numero es menor `);
+         alert(`El numero es menor que ${numeroUsuario}`);
      }
      else {
-         alert('El numero es mayor');
+         alert(`El numero es mayor que ${numeroUsuario}`);
    }
    // alert(' no era ese numero lo siento');
  };
