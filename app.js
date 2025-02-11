@@ -38,12 +38,15 @@ while( numeroUsuario != numeroSecreto){
 }
  alert('fin del juego');
 console.log('fin del juego');
-let juegoNuevo = prompt('Quieres jugar de nuevo?');
-if(juegoNuevo == 'si'){
+JugarOtravez();
+function JugarOtravez() {
+  let juegoNuevo = prompt('Quieres jugar de nuevo?');
+ if(juegoNuevo == 'si'){
     location.reload();
-}else {
+ }else {
   alert('Gracias por haber jugado');
 };
+}
 // nada mas para probar la rama de git
 // ya vi que si se puede hacer un cambio en la rama de git
 // y no afecta a la rama principal
